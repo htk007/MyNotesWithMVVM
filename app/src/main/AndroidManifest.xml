@@ -13,6 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyNotebook"
         tools:targetApi="31">
+        <activity android:name=".AddEditNoteActivity"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
